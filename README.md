@@ -15,22 +15,20 @@
 
 # Hey there 👋, I'm Sai Mani Raj
 
-### 🎯 Full-Stack Software Engineer | Cloud-Native Backend Developer | MS CS Student
+### 🎯 Full-Stack Software Engineer | Cloud-Native Backend Developer | AI Systems Builder
 
-I'm a software engineer based in **Los Angeles, California**, focused on building reliable backend systems, clean user-facing products, and cloud-native workflows. I enjoy working across the stack, but I especially like the parts where product logic, distributed systems, async pipelines, and infrastructure meet.
+I'm a software engineer based in **Los Angeles, California**, focused on full-stack products, cloud-native backends, async systems, and practical AI/RAG applications. I like building software that is useful, reliable, and understandable beyond the demo.
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Graduated with an **MS in Computer Science** from California State University, San Bernardino with a **3.97 GPA**
-- 💼 Previously worked as a **Software Development Engineer at Egen**, building production systems on **GCP**
-- ⚙️ Experienced with **TypeScript/Python backends**, **React/Angular frontends**, and event-driven systems
-- ☁️ Built and deployed services using **Cloud Run**, **Cloud Tasks**, **Firestore**, **BigQuery**, **Docker**, **Terraform**, and **Cloud Build**
-- 🚀 Built async worker pipelines with **BullMQ + Redis** and payment flows with **Stripe Connect**
-- 🤖 Exploring practical AI-assisted development with **LangChain**, **Gemini API**, **Claude**, **Codex**, and MCP-based tooling
-- 🧠 Interested in backend engineering, cloud architecture, RAG systems, CI/CD, and operationally reliable software
-- 💬 Ask me about full-stack systems, GCP, FastAPI, Node.js, React, RAG pipelines, or cloud-native development
+- 🎓 Recent **MS Computer Science** graduate with a **3.97 GPA**
+- 💼 Former **SDE at Egen**, building GCP-based production systems used by **1,000+ daily users**
+- 🔭 Currently building **[Queryless](https://github.com/Queryless-org/queryless)** — a natural-language chatbot for SQL-based data analytics
+- ⚙️ Strongest with **TypeScript/Python backends**, **React/Angular frontends**, and **GCP/AWS cloud workflows**
+- 🚀 Built systems with **Fastify**, **FastAPI**, **Stripe Connect**, **BullMQ + Redis**, **Milvus**, and **Cloud Run**
+- 🧠 Interested in backend platforms, distributed workflows, RAG systems, and developer tooling
 
 ---
 
@@ -83,6 +81,18 @@ I'm a software engineer based in **Los Angeles, California**, focused on buildin
 
 ### 🚀 Featured Projects
 
+#### 📊 [Queryless](https://github.com/Queryless-org/queryless)
+> A natural-language chatbot for SQL-based data analytics
+
+- Building an authenticated chat interface where users can ask data questions in plain English
+- Implemented a **Next.js** frontend with Firebase auth, conversation navigation, and typed backend API helpers
+- Built a **FastAPI** backend with Firestore-backed users, conversations, messages, and dataset APIs
+- Integrated a **LangChain SQL agent** over **DuckDB/CSV** data to turn user questions into analytics responses
+
+`Next.js` `TypeScript` `FastAPI` `Firebase` `Firestore` `LangChain` `DuckDB`
+
+---
+
 #### 🛠️ Electronics Repair Booking Platform
 > A full-stack repair intake, scheduling, payment, and notification platform
 
@@ -132,7 +142,6 @@ Worked as a **Graduate Research Assistant** building a speech training web appli
 
 - **[Google Cloud Professional Cloud Developer](https://github.com/smr-chanda/Professional-Cloud-Developer-Certificate/blob/main/Certificate.pdf)**
 - **[Google Cloud Professional Cloud DevOps Engineer](https://github.com/smr-chanda/Professional-Cloud-DevOps-Engineer-Certificate/blob/main/Certificate.pdf)**
-- **Google Cloud Professional Data Engineer**
 - **[HashiCorp Terraform Associate](https://github.com/smr-chanda/Terraform-Associate-Certification/blob/main/Certificate.pdf)**
 
 ---

@@ -13,7 +13,7 @@
 
 ---
 
-# Hey there 👋, I'm Sai
+# Hey there 👋, I'm Sai Mani Raj
 
 ### 🎯 Full-Stack Software Engineer | Cloud-Native Backend Developer | MS CS Student
 
